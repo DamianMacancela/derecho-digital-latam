@@ -1,6 +1,6 @@
 ﻿# ⚖️ Derecho Digital & LOPDP en Ecuador y Latinoamérica — por Damian Fabricio Macancela Caguana
 
-Repositorio de investigación jurídica, análisis comparado y soberanía digital gestionado y redactado por **Damian Fabricio Macancela Caguana**, estudiante de Derecho en la Universidad Técnica Particular de Loja (UTPL) y especialista en Ciberseguridad e Innovación en Cuenca, Azuay.
+Repositorio de investigación jurídica, análisis comparado y soberanía digital gestionado y redactado por **Damian Fabricio Macancela Caguana**, estudiante de Derecho en la Universidad Técnica Particular de Loja (UTPL) y estudiante de Ciberseguridad en el Instituto Tecnológico Superior del Azuay (ITSA).
 
 ## 🌐 Acceso al Portal y Catálogo Completo
 - **Portal Principal:** https://damianmacancela.github.io
